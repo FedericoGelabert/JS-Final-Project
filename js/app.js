@@ -5,7 +5,7 @@ let favouriteFilms = JSON.parse(localStorage.getItem('film')) || []
 
 
 const obtenerDatosFilms = () => {
-    fetch('../data/data.json')
+    fetch('data/data.json')
         .then((res) => {
             return res.json()
         })
