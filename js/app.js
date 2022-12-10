@@ -3,8 +3,6 @@ const content = document.getElementById('films')
 let filmsArray = [];
 let favouriteFilms = JSON.parse(localStorage.getItem('film')) || []
 
-console.log(favouriteFilms.id)
-
 
 const obtenerDatosFilms = () => {
     fetch('../data/data.json')
