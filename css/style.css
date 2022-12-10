@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+/* HEADER */
+
+
+.header {
+    width: 100%;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.929);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo-text {
+    padding: 0px 25px;
+    font-size: 2em;
+    color: white;
+}
+
+.header-nav {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.header-nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.1em;
+}
+
+.header-nav li {
+    padding: 12px;
+}
+
+.interaction-nav {
+    display: flex;
+    align-items: center;
+}
+
+.header input {
+    padding: 8px;
+    width: 320px;
+    border: 2px whitesmoke solid;
+    border-radius: 6px;
+    background: rgb(32, 32, 32);
+    color: white;
+}
+
+.header button {
+    background: rgb(32, 32, 32);
+    color: white;
+    padding: 8px;
+    border: 2px whitesmoke solid;
+    border-radius: 5px;
+}
+
+.header input:hover {
+    color: rgba(255, 255, 255, 0.775);
+    font-size: 1.15em;
+}
+.header button:hover {
+    color: rgba(255, 255, 255, 0.775);
+    font-size: 1.15em;
+}
+
+
+
+/* HOME */
+
+.home-main {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url("https://res.cloudinary.com/federicog/image/upload/v1669324567/js-proyect/b-image-home.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+    object-fit: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+.home-main h1 {
+    font-size: 4rem;
+    margin: 5px;
+    text-shadow: 1px 5px 5px black;
+}
+
+.home-main h1 span {
+    color: red;
+}
+
+.home-main p {
+    font-size: 1.8rem;
+    text-shadow: 1px 5px 5px black;
+    margin: 8px;
+}
+
+.search-main {
+    width: 60%;
+}
+
+.home-main input {
+    margin: 10px;
+    padding: 9px;
+    width: 50%;
+}
+
+
+.home-main button {
+    padding: 12px;
+    color: rgb(255, 255, 255);
+    font-size: 1.1rem;
+    background-color: red;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px black;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.home-main button:hover {
+    background-color: white;
+    color: red;
+}
+
+
+
+/* HOME > FILMS */
+
+
+#films {
+    background-color: rgba(0, 0, 0, 0.929);
+    min-height: 1300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.film-container {   
+    color: white;
+    margin: 50px;
+    margin-top: 90px;
+}
+
+.film-container img {
+    width: 350px;
+    height: 420px;
+    border-radius: 15px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.film-data {
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.film-name {
+    color: white;
+    font-size: 1.3em;
+    display: inline-block;
+}
+
+.film-year {
+    display: inline-block;
+    font-size: 1.1em;
+}
+
+.film-favourite {
+    font-size: 1.18em;
+    cursor: pointer;
+}
+
+.fav-color {
+    color:red;
+    font-size: 1.18em;
+    cursor: pointer;
+}
+
+.fav-uncolor {
+    color: white;
+    font-size: 1.18em;
+    cursor: pointer;
+}
+
+
+
+/* FILMS */
+
+.films-main {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.913);
+}
+
+#films-container {
+    background-color: rgba(0, 0, 0, 0.23);
+    min-height: 1300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.film-h2 {
+    color: white;
+    margin: 70px;
+    font-size: 2.5em;
+    text-decoration: underline;
+}
+
+
+
+/* FAVOURITE */
+
+.fav-main {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.913);
+}
+
+#fav-container {
+    background-color: rgba(0, 0, 0, 0);
+    min-height: 1300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.fav-h2 {
+    color: white;
+    margin: 70px;
+    font-size: 2.5em;
+    text-decoration: underline;
+}
+
+
+.film-favourite-select {
+    font-size: 1.18em;
+    cursor: pointer;
+    color: red;
+}
+
+/* FOOTER */
+
+.footer {
+    height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-home {
+    height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.989);;
+}

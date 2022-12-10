@@ -1,0 +1,154 @@
+
+[
+    {
+        "id": 1,
+        "name": "Morbius",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1669329872/js-proyect/morbius-film_eesjyx.jpg",
+        "gender": "Fantasy",
+        "year": "2022",
+        "director": "Daniel Espinosa",
+        "hFilms": true,
+        "fFilm": false
+    },
+    {
+        "id": 2,
+        "name": "Soul",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1670456014/js-proyect/soul-film_nvmlga.jpg",
+        "gender": "Comedy",
+        "year": "2022",
+        "director": "Pete Docter",
+        "hFilms": false,
+        "fFilm": false
+    },
+    {
+        "id": 3,
+        "name": "Us",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1670633511/js-proyect/us-film_g06xyh.jpg",
+        "gender": "Terror",
+        "year": "2019",
+        "director": "Jordan Peele",
+        "hFilms": false,
+        "fFilm": false
+    },
+    {
+        "id": 4,
+        "name": "The Joker",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1670633303/js-proyect/joker-film_yoxnic.jpg",
+        "gender": "Drama",
+        "year": "2019",
+        "director": "Todd Phillips",
+        "hFilms": false,
+        "fFilm": false
+    },
+    {
+        "id": 5,
+        "name": "Smile",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1669329872/js-proyect/smile-film_mdf0de.jpg",
+        "gender": "Thriller",
+        "year": "2022",
+        "director": "Parker Finn",
+        "hFilms": true,
+        "fFilm": false
+    },
+    {
+        "id": 6,
+        "name": "A Dog Journey",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1670633344/js-proyect/adogjourney-film_qne8fr.jpg",
+        "gender": "Adventure",
+        "year": "2019",
+        "director": "Gail Mancuso",
+        "hFilms": false,
+        "fFilm": false
+    },
+    {
+        "id": 7,
+        "name": "Serenity",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1670633310/js-proyect/obesion-film_xx8tlu.jpg",
+        "gender": "Drama",
+        "year": "2019",
+        "director": "Steven Knight",
+        "hFilms": false,
+        "fFilm": false
+    },
+    {
+        "id": 8,
+        "name": "Thor: Ragnarok",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1670633365/js-proyect/thor-ragnarok-film_odzbuq.jpg",
+        "gender": "Drama",
+        "year": "2017",
+        "director": "Taika Waititi",
+        "hFilms": false,
+        "fFilm": false
+    },
+    {
+        "id": 9,
+        "name": "Granizo",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1669329878/js-proyect/granizo-film_xn8fju.png",
+        "gender": "Drama",
+        "year": "2022",
+        "director": "Marcos Carnevale",
+        "hFilms": true,
+        "fFilm": false
+    },
+    {
+        "id": 10,
+        "name": "Jhon Wick 2",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1670633324/js-proyect/jhon-wick2-film_xvrwi9.jpg",
+        "gender": "Action",
+        "year": "2017",
+        "director": "Chad Stahelski",
+        "hFilms": false,
+        "fFilm": false
+    },
+    {
+        "id": 11,
+        "name": "Red",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1669329872/js-proyect/red-film_ipoozy.jpg",
+        "gender": "Adventure",
+        "year": "2022",
+        "director": "Gorō Taniguchi",
+        "hFilms": true,
+        "fFilm": false
+    },
+    {
+        "id": 12,
+        "name": "The Invitation",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1669330065/js-proyect/onesheet-film_ilp6pf.jpg",
+        "gender": "Terror",
+        "year": "2022",
+        "director": "Jessica M. Thompson",
+        "hFilms": true,
+        "fFilm": false
+    },
+    {
+        "id": 13,
+        "name": "The Requin",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1669330065/js-proyect/panicoaladeriva-film_mt9wre.jpg",
+        "gender": "Action",
+        "year": "2022",
+        "director": "Le-Van Kiet",
+        "hFilms": true,
+        "fFilm": false
+    },
+    {
+        "id": 14,
+        "name": "So Cold The River",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1669330066/js-proyect/frio-film_rp1ve4.jpg",
+        "gender": "Drama",
+        "year": "2022",
+        "director": "Paul Shoulberg",
+        "hFilms": true,
+        "fFilm": false
+    },
+    {
+        "id": 15,
+        "name": "Drifting Home",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1669330065/js-proyect/hogaraladeriva-film_rj2jag.jpg",
+        "gender": "Fantasy",
+        "year": "2022",
+        "director": "Hiroyasu Ishida",
+        "hFilms": true,
+        "fFilm": false
+    }
+            
+]
