@@ -6,29 +6,39 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
-    <title>Home</title>
+    <meta name="keywords" content="movie!, films, movies, home, federico gelabert, online films">
+    <meta name="description" content="Get access to over 50 current movies. We are updating the website so you can access more movies!">
+    <link rel="icon" href="https://res.cloudinary.com/federicog/image/upload/v1670806306/js-proyect/icon_xxc2xn.png">
+    <title>Movie! - Home</title>
 </head>
 
 <body>
 
     <header class="header">
         <div class="header-logo">
-            <p class="logo-text">PROYECT</p>
+            <p class="logo-text">Movie!</p>
         </div>
         <div class="interaction-nav">
             <nav class="header-nav">
-                <a href="index.html">
-                    <li>Home</li>
-                </a>
-                <a href="./pages/films.html">
-                    <li>Films</li>
-                </a>
-                <a href="./pages/favourites.html">
-                    <li>Favourites</li>
-                </a>
-                <a href="./pages/contact.html">
-                    <li>Contact</li>
-                </a>
+                <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="./pages/films.html" class="nav-link">Films</a>
+                </li>
+                <li class="nav-item">
+                    <a href="./pages/favourites.html" class="nav-link">Favourites</a>
+                </li>
+                <li class="nav-item">
+                    <a href="./pages/contact.html" class="nav-link">Contact</a>
+                </li>
+            </ul>
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
             </nav>
         </div>
     </header>
@@ -37,8 +47,7 @@
             <h1>BEST 2022 FILMS</h1>
         </div>
         <div class="search-main">
-            <input type="text" placeholder="Search +1000 films">
-            <button>Search</button>
+            <button href="./pages/films.html" id="home-button">Search</button>
         </div>
     </main>
 

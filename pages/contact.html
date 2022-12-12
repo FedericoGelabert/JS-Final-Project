@@ -4,38 +4,96 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="movie!, films, movies, contact, federico gelabert, online films">
+    <meta name="description" content="Don't hesitate in contact us!">
+    <link rel="icon" href="https://res.cloudinary.com/federicog/image/upload/v1670806306/js-proyect/icon_xxc2xn.png">
     <link rel="stylesheet" href="../css/style.css">
-    <title>Contact</title>
+    <title>Movie! - Contact</title>
 </head>
 <body>
     
     <header class="header">
         <div class="header-logo">
-            <p class="logo-text">PROYECT</p>
+            <p class="logo-text">Movie!</p>
         </div>
         <div class="interaction-nav">
             <nav class="header-nav">
-                <a href="../index.html">
-                    <li>Home</li>
-                </a>
-                <a href="./films.html">
-                    <li>Films</li>
-                </a>
-                <a href="./favourites.html">
-                    <li>Favourites</li>
-                </a>
-                <a href="./contact.html">
-                    <li>Contact</li>
-                </a>
+                <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="../index.html" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="./films.html" class="nav-link">Films</a>
+                </li>
+                <li class="nav-item">
+                    <a href="./favourites.html" class="nav-link">Favourites</a>
+                </li>
+                <li class="nav-item">
+                    <a href="./contact.html" class="nav-link">Contact</a>
+                </li>
+            </ul>
+            
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
             </nav>
         </div>
     </header>
+
+    <div class="contact-container-image">
+        <div class="contact-container">
+            <form class="contact-form">
+                <div class="contact-h1">
+                    <h1>Contact us</h1>
+                </div>
+                <div class="container-contact-base">
+                    <input type="text" placeholder="Name" name="input-name" class="contact-base contact-base-one"
+                        required><br>
+                    <input type="email" placeholder="Email" name="input-email" class="contact-base contact-base-two"
+                        required><br><br>
+                </div>
+                <div class="contact-textarea">
+                    <textarea name="textarea" placeholder="Message" cols="27" rows="5" class="contact-message"
+                        required></textarea><br>
+                </div>
+                <div class="contact-buttons">
+                    <button type="submit" class="contact-button contact-button-active" onclick="messageContact()">Send</button>
+                    <button type="reset" class="contact-button">Reset</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
 
 
     <footer class="footer-home">
         <p>Film-Proyect © Copyright 2022</p>
     </footer>
 
-    <script src="../js/app.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>function messageContact(){
+                Swal.fire(
+            'Perfect',
+            `You send the message correctly.`,
+            'success'
+        )
+        }
+        
+        const ham = document.querySelector('.hamburger');
+    const navMenu = document.querySelector('.nav-menu')
+
+ham.addEventListener('click', () => {
+    ham.classList.toggle("active");
+    navMenu.classList.toggle("active");
+})
+
+document.querySelectorAll('.nav-link').forEach(n => n.addEventListener('click', () => {
+    ham.classList.remove('active');
+    navMenu.classList.remove('active');
+}))
+</script>
 </body>
 </html>

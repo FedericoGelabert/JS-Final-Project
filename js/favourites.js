@@ -1,13 +1,28 @@
 const favFilms = JSON.parse(localStorage.getItem('film')) || []
 const filmFavContainer = document.getElementById('fav-container')
 
+const ham = document.querySelector('.hamburger');
+const navMenu = document.querySelector('.nav-menu')
+
+ham.addEventListener('click', () => {
+    ham.classList.toggle("active");
+    navMenu.classList.toggle("active");
+})
+
+document.querySelectorAll('.nav-link').forEach(n => n.addEventListener('click', () => {
+    ham.classList.remove('active');
+    navMenu.classList.remove('active');
+}))
+
 
 
 favFilms.forEach(favFilm => {
 
     filmFavContainer.innerHTML += `
     <div class="film-container" id="${favFilm.id}">
+    <a href="${favFilm.url}">
     <img src="${favFilm.img}" alt="${favFilm.name}">
+    </a>
         <div class="film-data">
             <p class="film-year">${favFilm.year}</p>
             <p class="film-name">${favFilm.name}</p>
@@ -17,6 +32,17 @@ favFilms.forEach(favFilm => {
     
     `;
 });
+
+const notfound = document.getElementById('fav-notfound')
+
+if(favFilms.find((film) => film.id)) {
+    notfound.classList.add('hide')
+} else if(!favFilms.find((film) => film.id)) {
+    notfound.classList.remove('hide')
+    
+}
+
+
 
 
 
