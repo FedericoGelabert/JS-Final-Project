@@ -22,8 +22,6 @@ buttonHome.addEventListener('click', e => {
     window.location.href = './pages/films.html';
 })
 
-
-
 const obtenerDatosFilms = () => {
     fetch('data/data.json')
         .then((res) => {
@@ -54,7 +52,7 @@ const renderFilms = (films) => {
             
             html += `
             <div class="film-container" id="${film.id}">
-                <a href="${film.url}">
+                <a href="${film.hurl}">
                     <img src="${film.img}" alt="${film.name}">
                 </a>
                 <div class="film-data">
@@ -69,7 +67,7 @@ const renderFilms = (films) => {
 
         html += `
         <div class="film-container" id="${film.id}">
-            <a href="${film.url}">
+            <a href="${film.hurl}">
                 <img src="${film.img}" alt="${film.name}" class="film-img">
             </a>
             <div class="film-data">

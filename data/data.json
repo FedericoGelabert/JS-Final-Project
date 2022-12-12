@@ -13,7 +13,8 @@
         "term": "1h 49m",
         "hFilms": true,
         "ffilms": false,
-        "url": "../films/morbius.html"
+        "url": "../films/morbius.html",
+        "hurl": "./films/morbius.html"
     },
     {
         "id": 2,
@@ -74,7 +75,8 @@
         "term": "1h 55m",
         "hFilms": true,
         "ffilms": false,
-        "url": "../films/smile.html"
+        "url": "../films/smile.html",
+        "hurl": "./films/smile.html"
     },
     {
         "id": 6,
@@ -134,7 +136,8 @@
         "term": "1h 58m",
         "hFilms": true,
         "ffilms": false,
-        "url": "../films/granizo.html"
+        "url": "../films/granizo.html",
+        "hurl": "./films/granizo.html"
     },
     {
         "id": 10,
@@ -209,7 +212,8 @@
         "term": "1h 40m",
         "hFilms": true,
         "ffilms": false,
-        "url": "../films/red.html"
+        "url": "../films/red.html",
+        "hurl": "./films/red.html"
     },
     {
         "id": 15,
@@ -254,7 +258,8 @@
         "term": "1h 44m",
         "hFilms": true,
         "ffilms": false,
-        "url": "../films/the-invitation.html"
+        "url": "../films/the-invitation.html",
+        "hurl": "./films/the-invitation.html"
     },
     {
         "id": 18,
@@ -284,7 +289,8 @@
         "term": "1h 29m",
         "hFilms": true,
         "ffilms": false,
-        "url": "../films/the-requin.html"
+        "url": "../films/the-requin.html",
+        "hurl": "./films/the-requin.html"
     },
     {
         "id": 20,
@@ -299,7 +305,8 @@
         "term": "1h 35m",
         "hFilms": true,
         "ffilms": false,
-        "url": "../films/so-cold.html"
+        "url": "../films/so-cold.html",
+        "hurl": "./films/so-cold.html"
     },
     {
         "id": 21,
@@ -374,7 +381,8 @@
         "term": "2 hours",
         "hFilms": true,
         "ffilms": false,
-        "url": "../films/drifting-home.html"
+        "url": "../films/drifting-home.html",
+        "hurl": "./films/drifting-home.html"
     },
     {
         "id": 26,
