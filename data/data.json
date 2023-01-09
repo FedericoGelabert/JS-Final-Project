@@ -29,7 +29,8 @@
         "term": "1h 40m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/soul.html",
+        "hurl": "./films/soul.html"
     },
     {
         "id": 3,
@@ -44,7 +45,8 @@
         "term": "2h 1m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/us.html",
+        "hurl": "./films/us.html"
         
     },
     {
@@ -60,7 +62,8 @@
         "term": "2h 2m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/the-joker.html",
+        "hurl": "./films/the-joker.html"
     },
     {
         "id": 5,
@@ -91,7 +94,8 @@
         "term": "1h 49m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/a-dog-journey.html",
+        "hurl": "./films/a-dog-journey.html"
     },
     {
         "id": 7,
@@ -106,7 +110,8 @@
         "term": "1h 46m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/serenity.html",
+        "hurl": "./films/serenity.html"
     },
     {
         "id": 8,
@@ -121,7 +126,8 @@
         "term": "2h 10m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/thor-ragnarok.html",
+        "hurl": "./films/thor-ragnarok.html"
     },
     {
         "id": 9,
@@ -141,8 +147,8 @@
     },
     {
         "id": 10,
-        "name": "Jhon Wick 2",
-        "lowername": "jhon wick 2",
+        "name": "John Wick 2",
+        "lowername": "john wick 2",
         "img": "https://res.cloudinary.com/federicog/image/upload/v1670633324/js-proyect/jhon-wick2-film_xvrwi9.jpg",
         "gender": "Action",
         "year": "2017",
@@ -152,7 +158,8 @@
         "term": "2h 2m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/john-wick.html",
+        "hurl": "./films/john-wick.html"
     },
     {
         "id": 11,
@@ -167,7 +174,8 @@
         "term": "1h 35m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/venom.html",
+        "hurl": "./films/venom.html"
     },
     {
         "id": 12,
@@ -182,7 +190,8 @@
         "term": "1h 52m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/the-girl-of-the-train.html",
+        "hurl": "./films/the-girl-of-the-train.html"
     },
     {
         "id": 13,
@@ -197,7 +206,8 @@
         "term": "1h 52m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/the-5th-wave.html",
+        "hurl": "./films/the-5th-wave.html"
     },
     {
         "id": 14,
@@ -228,7 +238,8 @@
         "term": "1h 32m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/pig.html",
+        "hurl": "-/films/pig.html"
     },
     {
         "id": 16,
@@ -243,7 +254,8 @@
         "term": "1h 48m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/old.html",
+        "hurl": "./films/old.html"
     },
     {
         "id": 17,
@@ -274,7 +286,8 @@
         "term": "1h 55m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/2067.html",
+        "hurl": "./films/2067.html"
     },
     {
         "id": 19,
@@ -321,7 +334,8 @@
         "term": "1h 26m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/kadaver.html",
+        "hurl": "./films/kadaver.html"
     },
     {
         "id": 22,
@@ -336,7 +350,8 @@
         "term": "2h 49m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/it-chapter-two.html",
+        "hurl": "./films/it-chapter-two.html"
     },
     {
         "id": 23,
@@ -351,7 +366,8 @@
         "term": "1h 58m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/breathe.html",
+        "hurl": "./films/breathe.html"
     },
     {
         "id": 24,
@@ -366,7 +382,8 @@
         "term": "1h 55m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/the-sea-beast.html",
+        "hurl": "./films/the-sea-beast.html"
     },
     {
         "id": 25,
@@ -397,7 +414,8 @@
         "term": "1h 55m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/minari.html",
+        "hurl": "./films/minari.html"
     },
     {
         "id": 27,
@@ -412,11 +430,12 @@
         "term": "1h 56m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/passengers.html",
+        "hurl": "./films/passengers.html"
     },
     {
         "id": 28,
-        "name": "The nun",
+        "name": "The Nun",
         "lowername": "the nun",
         "img": "https://res.cloudinary.com/federicog/image/upload/v1670801825/js-proyect/the-nun-film_m6c6jm.jpg",
         "gender": "Terror",
@@ -427,7 +446,8 @@
         "term": "1h 36m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/the-nun.html",
+        "hurl": "./films/the-nun.html"
     },
     {
         "id": 29,
@@ -442,7 +462,8 @@
         "term": "2h 4m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/captain-marvel.html",
+        "hurl": "./films/captain-marvel.html"
     },
     {
         "id": 30,
@@ -457,7 +478,8 @@
         "term": "1h 54m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/the-imitation-game.html",
+        "hurl": "./films/the-imitation-game.html"
     },
     {
         "id": 31,
@@ -472,7 +494,8 @@
         "term": "1h 53m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/my-policeman.html",
+        "hurl": "./films/my-policeman.html"
     },
     {
         "id": 32,
@@ -487,7 +510,8 @@
         "term": "1h 55m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/mulan.html",
+        "hurl": "./films/mulan.html"
     },
     {
         "id": 33,
@@ -502,7 +526,8 @@
         "term": "1h 48m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/a-monster-calls.html",
+        "hurl": "./films/a-monster-calls.html"
     },
     {
         "id": 34,
@@ -517,7 +542,8 @@
         "term": "2h 10m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/nope.html",
+        "hurl": "./films/nope.html"
     },
     {
         "id": 35,
@@ -532,7 +558,8 @@
         "term": "1h 58m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/father-of-the-bride.html",
+        "hurl": "./films/father-of-the-bride.html"
     },
     {
         "id": 36,
@@ -547,7 +574,8 @@
         "term": "1h 45m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/lightyear.html",
+        "hurl": "./films/lightyear.html"
     },
     {
         "id": 37,
@@ -562,7 +590,8 @@
         "term": "2h 20m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/the-tomorrow-war.html",
+        "hurl": "./films/the-tomorrow-war.html"
     },
     {
         "id": 38,
@@ -577,7 +606,8 @@
         "term": "2h 12m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/parasite.html",
+        "hurl": "./films/parasite.html"
     },
     {
         "id": 39,
@@ -592,7 +622,8 @@
         "term": "1h 35m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/cam.html",
+        "hurl": "./films/cam.html"
     },
     {
         "id": 40,
@@ -607,7 +638,8 @@
         "term": "1h 43m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/moana.html",
+        "hurl": "./films/moana.html"
     },
     {
         "id": 41,
@@ -622,13 +654,14 @@
         "term": "1h 54m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/pinocchio.html",
+        "hurl": "./films/pinocchio.html"
     },
     {
         "id": 42,
         "name": "After Ever Happy",
         "lowername": "after ever happy",
-        "img": "https://res.cloudinary.com/federicog/image/upload/v1670803800/js-proyect/after-ever-happy-film_grny0m.jpg",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1673216195/js-proyect/after-ever-happy-film_mnnop4.jpg",
         "gender": "Romance",
         "year": "2022",
         "director": "Castille Landon",
@@ -637,7 +670,8 @@
         "term": "1h 59m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/after-ever-happy.html",
+        "hurl": "./films/after-ever-happy.html"
     },
     {
         "id": 43,
@@ -652,10 +686,11 @@
         "term": "1h 50m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/lighthouse.html",
+        "hurl": "./films/lighthouse.html"
     },
     {
-        "id": 43,
+        "id": 44,
         "name": "Minions: The Rise of Gru",
         "lowername": "minions the rise of gru",
         "img": "https://res.cloudinary.com/federicog/image/upload/v1670804136/js-proyect/the-rise-of-gru-film_jgsacu.jpg",
@@ -667,10 +702,11 @@
         "term": "1h 30m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/minions-trog.html",
+        "hurl": "./films/minions-trog.html"
     },
     {
-        "id": 44,
+        "id": 45,
         "name": "Fahrenheit 451",
         "lowername": "fahrenheit 451",
         "img": "https://res.cloudinary.com/federicog/image/upload/v1670804284/js-proyect/fahrenheit-film_fzlfow.jpg",
@@ -682,13 +718,14 @@
         "term": "1h 40m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/fahrenheit-451.html",
+        "hurl": "./films/fahrenheit-451.html"
     },
     {
-        "id": 45,
+        "id": 46,
         "name": "Luca",
         "lowername": "luca",
-        "img": "https://res.cloudinary.com/federicog/image/upload/v1670804325/js-proyect/luca-film_bcrquv.jpg",
+        "img": "https://res.cloudinary.com/federicog/image/upload/v1673217749/js-proyect/luca-film_i1mduw.png",
         "gender": "Comedy",
         "year": "2021",
         "director": "Enrico Casarosa",
@@ -697,10 +734,11 @@
         "term": "1h 35m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/luca.html",
+        "hurl": "./films/luca.html"
     },
     {
-        "id": 46,
+        "id": 47,
         "name": "Carter",
         "lowername": "carter",
         "img": "https://res.cloudinary.com/federicog/image/upload/v1670804461/js-proyect/carter-film_zchvj6.jpg",
@@ -712,10 +750,11 @@
         "term": "2h 12m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/carter.html",
+        "hurl": "./films/carter.html"
     },
     {
-        "id": 47,
+        "id": 48,
         "name": "Finding Dory",
         "lowername": "finding dory",
         "img": "https://res.cloudinary.com/federicog/image/upload/v1670804684/js-proyect/finding-dory-film_izv76z.jpg",
@@ -727,10 +766,11 @@
         "term": "1h 45m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/finding-dory.html",
+        "hurl": "./films/finding-dory.html"
     },
     {
-        "id": 48,
+        "id": 49,
         "name": "Doctor Strange",
         "lowername": "doctor strange",
         "img": "https://res.cloudinary.com/federicog/image/upload/v1670804876/js-proyect/doctor-strange-film_mmcmag.jpg",
@@ -742,10 +782,11 @@
         "term": "2h 6m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
+        "url": "../films/doctor-strange-itmom.html",
+        "hurl": "./films/doctor-strange-itmom.html"
     },
     {
-        "id": 49,
+        "id": 50,
         "name": "Hustle",
         "lowername": "hustle",
         "img": "https://res.cloudinary.com/federicog/image/upload/v1670804992/js-proyect/hustle-film_wjhn6z.jpg",
@@ -757,21 +798,7 @@
         "term": "1h 57m",
         "hFilms": false,
         "ffilms": false,
-        "url": "#"
-    },
-    {
-        "id": 50,
-        "name": "Slumberland",
-        "lowername": "slumberland",
-        "img": "https://res.cloudinary.com/federicog/image/upload/v1670805128/js-proyect/slumberland-film_xyu6xl.jpg",
-        "gender": "Fantasy",
-        "year": "2022",
-        "director": "Francis Lawrence",
-        "syno": "A young woman discovers a secret map to the dream world of Slumberland and, with the help of an eccentric outlaw, traverses dream reality and flees nightmares in hopes of seeing her late father again.",
-        "release": "November 9, 2022.",
-        "term": "1h 57m",
-        "hFilms": false,
-        "ffilms": false,
-        "url": "#"
+        "url": "../films/hustle.html",
+        "hurl": "./films/hustle.html"
     }
 ]

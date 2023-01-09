@@ -31,6 +31,10 @@
     font-family: 'Paytone One', sans-serif;
 }
 
+.logo-a {
+    text-decoration: none;
+}
+
 .header-nav {
     display: flex;
     list-style: none;
@@ -644,8 +648,56 @@
     background-color: rgba(0, 0, 0, 0.65);
 }
 
+#film-soul {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673194372/js-proyect/soul-b_utrg2x.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+#film-us {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673196052/js-proyect/us-b_yj8pds.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+#film-the-joker {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673196897/js-proyect/the-joker-b_iwnist.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
 #film-smile {
     background-image: url(https://res.cloudinary.com/federicog/image/upload/v1670800423/js-proyect/smile-b-film_tzy1i2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+#film-a-dog-journey {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673197266/js-proyect/a-dog-journey-b_m8gzx7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+#film-serenity {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673197563/js-proyect/serenity-b_wshblf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+#film-thor-ragnarok {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673197868/js-proyect/thor-ragnarok.b_fzxs3x.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: soft-light;
@@ -660,6 +712,38 @@
     background-color: rgba(0, 0, 0, 0.65);
 }
 
+#film-john-wick {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673198648/js-proyect/jhon-wick-b_xyfw0f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+#film-venom {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673198961/js-proyect/venom-b_fanfsy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+#film-the-girl-of-the-train {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673199254/js-proyect/the-girl-of-the-train-b_sycroq.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+#film-the-5th-wave {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673200707/js-proyect/the-5th-wave-b_mak6vw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
 #film-red {
     background-image: url(https://res.cloudinary.com/federicog/image/upload/v1670800667/js-proyect/red-b-film_het2pm.jpg);
     background-repeat: no-repeat;
@@ -668,8 +752,32 @@
     background-color: rgba(0, 0, 0, 0.65);
 }
 
+#film-pig {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673201060/js-proyect/pig-b_q9u9bu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+#film-old {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673201689/js-proyect/old-b_n16lax.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
 #film-the-invitation {
     background-image: url(https://res.cloudinary.com/federicog/image/upload/v1670800796/js-proyect/the-invitation-b-film_ifro5j.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+#film-2067 {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673201994/js-proyect/2067-b_ejmfgw.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: soft-light;
@@ -692,6 +800,38 @@
     background-color: rgba(0, 0, 0, 0.65);
 }
 
+#film-kadaver {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673202305/js-proyect/kadaver-b_tsluxg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+#film-it-chapter-two {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673202629/js-proyect/it-2-b_xv6w1u.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+#film-breathe {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673202903/js-proyect/breathe-b_ks8h0s.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+#film-the-sea-beast {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673208278/js-proyect/the-sea-beast-b_a6f3nl.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
 #film-drifting-home {
     background-image: url(https://res.cloudinary.com/federicog/image/upload/v1670721028/js-proyect/contact-background_talkq5.jpg);
     background-repeat: no-repeat;
@@ -699,6 +839,207 @@
     background-blend-mode: soft-light;
     background-color: rgba(0, 0, 0, 0.70);
 }
+
+#film-minari {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673208560/js-proyect/minari-b_tetclb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+#film-passengers {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673208820/js-proyect/passengers-b_kiiyak.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+#film-the-nun {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673209040/js-proyect/the-nun-b_ubjwcr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+#film-captain-marvel {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673209359/js-proyect/captain-marvel-b_tvwppy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .70);
+}
+
+#film-the-imitation-game {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673209768/js-proyect/the-imitation-game-b_djemmk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .55);
+}
+
+#film-my-policeman {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673210118/js-proyect/my-policeman-b_nwylmw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .55);
+}
+
+#film-mulan {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673210396/js-proyect/mulan-b_kwbqse.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .65);
+}
+
+#film-a-monster-calls {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673213221/js-proyect/a-monster-calls-b_qqaphk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .55);
+}
+
+#film-nope {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673213415/js-proyect/nope-b_jyacmk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .55);
+}
+
+#film-father-of-the-bride {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673213670/js-proyect/father-of-the-bride-b_hkno9e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .55);
+}
+
+#film-lightyear {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673213961/js-proyect/lightyear-b_rbzxs6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .65);
+}
+
+#film-the-tomorrow-war {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673214248/js-proyect/the-tomorrow-war-b_wpbptw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .60);
+}
+
+#film-parasite {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673214545/js-proyect/parasite-b_m0hb0a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .65);
+}
+
+#film-cam {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673214836/js-proyect/cam-b_qa5fbz.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .55);
+}
+
+#film-moana {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673215138/js-proyect/moana-b_u4ejph.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .55);
+}
+
+#film-pinocchio {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673215397/js-proyect/pinocchio-b_awbqyz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .70);
+}
+
+#film-after-ever-happy {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673216249/js-proyect/after-ever-happy-b_td9oli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .55);
+}
+
+#film-lighthouse {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673216788/js-proyect/lighthouse-b_uxveyw.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .55);
+}
+
+#film-minions-trog {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673217141/js-proyect/minions-trog-b_jcctby.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .65);
+}
+
+#film-fahrenheit-451 {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673217484/js-proyect/fahrenheit-451-b_ozscho.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .65);
+}
+
+#film-luca {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673217671/js-proyect/luca-b_ysdmrk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .65);
+}
+
+#film-carter {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673217966/js-proyect/carter-b_kxzcur.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .65);
+}
+
+#film-finding-dory {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673218231/js-proyect/finding-dory-b_ewvels.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .65);
+}
+
+#film-doctor-strange-itmom {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673218934/js-proyect/doctor-strange-itmom-b_w6992x.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .70);
+}
+
+#film-hustle {
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1673219186/js-proyect/hustle-b_gn7sim.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgba(0, 0, 0, .70);
+}
+
 
 
 /* FOOTER */

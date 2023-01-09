@@ -41,8 +41,8 @@ const renderFilms = (films) => {
 
     let html = "";
     const filmHome = filmsArray.filter( (film) => film.hFilms === true )
-
-    localStorage.setItem('allfilms', JSON.stringify(filmHome))
+    const allFilms = filmsArray.filter( (film) => film)
+    localStorage.setItem('allfilms', JSON.stringify(allFilms))
 
     filmHome.forEach((film) => {
         const itemFav = favouriteFilms.find((fav) => fav.id === film.id)

@@ -59,7 +59,7 @@ const addFilmFavourite = (filmId) => {
 
         Swal.fire(
             'Okay...',
-            `You removed ${filmItem.name} from your favourite list.`,
+            `You removed <strong>${filmItem.name}</strong> from your favourite list.`,
             'error'
         )
 
