@@ -29,7 +29,6 @@ const obtenerDatosFilms = () => {
         })
         .then((data) => {
             renderFilms(data)
-            
         })
         .catch((err) => {
             console.log(err)
