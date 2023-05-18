@@ -4,6 +4,15 @@ let filmsArray = [];
 let favouriteFilms = JSON.parse(localStorage.getItem('film')) || []
 const buttonHome = document.getElementById('home-button') 
 
+const videos = ["assets/video-1.mp4", "assets/video-2.mp4", "assets/video-3.mp4"]
+const random = Math.floor( Math.random() * videos.length)
+
+function randomVideos() {
+    document.querySelector('#home-video').setAttribute('src', videos[random])
+}
+randomVideos()
+
+
 const ham = document.querySelector('.hamburger');
 const navMenu = document.querySelector('.nav-menu')
 
@@ -128,3 +137,5 @@ const addFilmFavourite = (filmId) => {
         selectFavFilm.classList = 'fav-color'
     }
 }
+
+
